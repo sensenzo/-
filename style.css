@@ -1,0 +1,15 @@
+@charset "utf-8";
+
+
+/*背景色*/
+body{
+    background-color: rgb(202, 202, 202);
+}
+
+
+/*文字のレイアウト*/
+h1{
+    color: rgb(50, 191, 196);           /*文字の色*/
+    background-color: rgb(0, 0, 0);     /*文字の背景色*/
+    font-weight:bold;                  /*太文字*/
+}
